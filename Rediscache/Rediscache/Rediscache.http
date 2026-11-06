@@ -1,0 +1,6 @@
+@Rediscache_HostAddress = http://localhost:5287
+
+GET {{Rediscache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
